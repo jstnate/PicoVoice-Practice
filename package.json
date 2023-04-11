@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@speechly/browser-client": "^2.6.5"
+  }
+}
